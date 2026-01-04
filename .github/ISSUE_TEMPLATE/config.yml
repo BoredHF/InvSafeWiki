@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
   - name: Documentation
-    url: https://github.com/<your-org>/InvSafe/wiki
+    url: https://github.com/BoredHF/InvSafeWiki/wiki
     about: Read the InvSafe wiki before opening an issue
